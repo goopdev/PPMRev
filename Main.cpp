@@ -7,7 +7,6 @@
 #include <stdlib.h>
 
 int main(int argc, char** argv){
-	std::cout << "hi";
 	// Initialization
 	std::string ppmName;
 
